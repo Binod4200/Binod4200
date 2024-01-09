@@ -2,7 +2,7 @@
 - 👀 I’m interested in web development and Ai
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on anybody who can mentor me
-- 📫 How to reach me Chaulagaibinod20@gmil.com
+- 📫 How to reach me Chaulagaibinod20@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
